@@ -14,7 +14,6 @@ public class KontaktJPanel extends javax.swing.JPanel {
 
     private KonManager konmgr = new KonManager();
     private FileManager filemgr = new FileManager();
-    //private final Databas db = new Databas();
 
     /**
      * Creates new form KontaktJPanel
